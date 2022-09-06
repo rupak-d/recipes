@@ -4,15 +4,13 @@
 
 ## Table of Contents
 
-- [Sticky Pork Ribs](https://www.youtube.com/watch?v=KgOBAWbkq5Q)
-- [Jerk Chicken Wings](https://www.youtube.com/watch?v=RCqFYhip2Ys)
-- [Creamy Garlic Mushroom Sauce](https://www.youtube.com/watch?v=parxjvYexCM&t=5s)
-- [Nashville Hot Chicken](https://www.youtube.com/watch?v=5UKssrLusBo&t=368s)
-- [Asian Street Food Noodles](https://www.youtube.com/watch?v=xhsN_36OW4w)
-- [Peri-Peri Chicken](https://www.youtube.com/watch?v=38AMhDfhuYY)
-- [Chili Oil](https://www.youtube.com/watch?v=4-q14tZeXiU&t=166s)
-- [Bengali Fish Fry](https://www.youtube.com/watch?v=otevgmY-xPs)
-- [Chinese Hot Chicken](https://www.youtube.com/watch?v=ctBN-5Jv0rU)
-- Hot Sauce
-  - [Part 1](https://www.youtube.com/watch?v=cM4rl1eLE5M)
-  - [Part 2](https://www.youtube.com/watch?v=OEtG9a0EVUY)
+- [Sticky Pork Ribs](/Sticky%20Pork%20Ribs/README.md)
+- [Jerk Chicken Wings](/Jerk%20Chicken%20Wings/README.md)
+- [Creamy Garlic Mushroom Sauce](/Creamy%20Garlic%20Mushroom%20Sauce/README.md)
+- [Nashville Hot Chicken](/Nashville%20Hot%20Chicken/README.md)
+- [Asian Street Food Noodles](/Asian%20Street%20Food%20Noodles/README.md)
+- [Peri-Peri Chicken](/Peri-Peri%20Chicken/README.md)
+- [Chili Oil](/Chili%20Oil/README.md)
+- [Bengali Fish Fry](/Bengali%20Fish%20Fry/README.md)
+- [Chinese Hot Chicken](/Chinese%20Hot%20Chicken/README.md)
+- [Hot Sauce](/Hot%20Sauce/README.md)
