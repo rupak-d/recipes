@@ -11,7 +11,7 @@
 - [Asian Street Food Noodles](https://www.youtube.com/watch?v=xhsN_36OW4w)
 - [Peri-Peri Chicken](https://www.youtube.com/watch?v=38AMhDfhuYY)
 - [Chili Oil](https://www.youtube.com/watch?v=4-q14tZeXiU&t=166s)
-- [Fish Fry](https://www.youtube.com/watch?v=otevgmY-xPs)
+- [Bengali Fish Fry](https://www.youtube.com/watch?v=otevgmY-xPs)
 - [Chinese Hot Chicken](https://www.youtube.com/watch?v=ctBN-5Jv0rU)
 - Hot Sauce
   - [Part 1](https://www.youtube.com/watch?v=cM4rl1eLE5M)
