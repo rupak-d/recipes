@@ -1,6 +1,6 @@
 # Favorite Recipes
 
-![Bacon Salad](/assets/salad.jpeg "Salad")
+![Meats](/assets/food.jpeg "Food")
 
 ## Table of Contents
 
