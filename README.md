@@ -14,3 +14,4 @@
 - [Bengali Fish Fry](/Bengali%20Fish%20Fry/README.md)
 - [Chinese Hot Chicken](/Chinese%20Hot%20Chicken/README.md)
 - [Hot Sauce](/Hot%20Sauce/README.md)
+- [Infused Olive Oil](/Infused%20Olive%20Oil/README.md)
