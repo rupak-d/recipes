@@ -1,6 +1,6 @@
 # Hot Sauce
 
-## Link
+## Links
 
 - [Fermentation Process](https://www.youtube.com/watch?v=cM4rl1eLE5M)
 - [Bottling Process](https://www.youtube.com/watch?v=OEtG9a0EVUY)
