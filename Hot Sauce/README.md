@@ -15,13 +15,13 @@
 
 ## Materials
 
-1. Sanitizer
-2. Jars for fermentation
-3. Food weighing scale
-4. Strainer
-5. pH measuring device
-6. Funnel
-7. Sauce bottles
+- Sanitizer
+- Jars for fermentation
+- Food weighing scale
+- Strainer
+- pH measuring device
+- Funnel
+- Sauce bottles
 
 ## Method
 
