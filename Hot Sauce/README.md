@@ -1,5 +1,7 @@
 # Hot Sauce
 
+![Hot Sauce](/assets/hot-ones.png "Hot Sauce")
+
 ## Links
 
 - [Fermentation Process](https://www.youtube.com/watch?v=cM4rl1eLE5M)

@@ -1,5 +1,7 @@
 # Chili Oil
 
+![Chili Oil](/assets/chili-oil.jpg "Chili Oil")
+
 ## Link
 
 [Chili Oil](https://www.youtube.com/watch?v=4-q14tZeXiU)
